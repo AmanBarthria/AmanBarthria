@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Aman Barthria
 
-<!--
-**AmanBarthria/AmanBarthria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Aspiring Data Analyst skilled in:
+- Excel
+- SQL
+- Power BI
+- Python
 
-Here are some ideas to get you started:
+📂 **Featured Projects:**
+- [📊 Sales Dashboard – Power BI](https://github.com/AmanBarthria/powerbi-sales-dashboard)
+- [📈 Excel Sales Analysis](https://github.com/AmanBarthria/sales-data-analysis-excel)
+- [🐍 Python Data Cleaning Script](https://github.com/AmanBarthria/data-cleaning-python-script)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Contact:** piyushsaxena7272@gmail.com
