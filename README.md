@@ -1,5 +1,5 @@
-👋 Hi, I’m Aman Barthria
-Aspiring Data Analyst | Skilled in Excel, SQL, Power BI & Python | Career Transition from Finance to Analytics
+👋 Hi, I am Aman Barthria
+Aspiring Data Analyst | Skilled in Excel, SQL, Statictics, Power BI & Python | Career Transition from Finance to Analytics
 
 I'm a results-oriented and detail-driven data enthusiast passionate about solving real-world problems through the power of data. With a strong foundation in Excel, SQL, Power BI, and Python, I specialize in extracting insights that drive smarter business decisions.
 
