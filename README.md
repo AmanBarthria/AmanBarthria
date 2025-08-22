@@ -1,17 +1,15 @@
-# 👋 Hi, I am Aman Barthria  
+# Hi there 👋, I'm Aman Barthria  
 
-**Aspiring Data Analyst | Career Transition from Finance to Analytics**  
-**Skilled in Excel · SQL · Statistics · Power BI · Python**  
+📊 **Aspiring Data Analyst** | Skilled in **Excel, SQL, Statistics, Power BI, and Python**  
+💼 Career Transition from **Finance to Data Analytics** | Passionate about turning raw data into actionable insights  
 
 ---
 
-## 🚀 About Me  
-I am a **results-oriented and detail-driven Data Analyst** passionate about solving real-world business problems through the power of data.  
-
-- 📊 My journey began in **Finance**, where I developed a sharp eye for data accuracy, KPIs, and business impact.  
-- 🔎 Now, I apply those same principles in **Analytics** — designing performance dashboards, extracting insights, and building automation tools to make data **accessible, actionable, and business-ready**.  
-- 🧠 I believe in **continuous learning, high ownership, and results that speak louder than words**.  
-- 💡 My approach is simple: *understand the problem, clean the data, uncover insights, and deliver value.*  
+## 👨‍💻 About Me  
+- 🔍 I love transforming data into meaningful insights that drive smarter business decisions.  
+- 📈 Strong foundation in **data analysis, visualization, and storytelling with data**.  
+- 🧑‍💼 Background in **Finance**, giving me a sharp eye for accuracy, business impact, and performance metrics.  
+- 🎯 My focus: Delivering **dashboards, sales insights, and automation solutions** that make data accessible and useful.  
 
 ---
 
@@ -51,12 +49,25 @@ I am a **results-oriented and detail-driven Data Analyst** passionate about solv
 
 ---
 
-## 🌟 Philosophy  
-“**Low ego, high ownership, and relentless curiosity.**  
-Data is not just numbers — it’s the story behind every decision.  
-My mission is to make that story clear, actionable, and impactful.”  
+## 📚 Currently Learning  
+- Advanced **Power BI dashboards** with real-time data  
+- Query performance tuning in **SQL**  
+- Building **end-to-end analytics workflows**  
 
 ---
 
-📬 **Let’s connect:** piyushsaxena7272@gmail.com  
-LinkedIn: https://www.linkedin.com/in/aman-barthria-8020a71a0/
+## 🎨 Creative Side  
+- ✍️ I enjoy writing simple blogs and data notes to explain concepts in an easy way.  
+- 🌱 Believe in **continuous learning, low ego, and high ownership**.  
+- ⚡ Fun fact: I started in **Finance** but discovered my true passion in **Data Analytics**.  
+
+---
+
+## 🛠️ Skills & Tools  
+**Excel** | **SQL** | **Statistics** | **Power BI** | **Python** | NumPy | Pandas | Matplotlib | Seaborn | GitHub  
+
+---
+
+## 📬 Reach Me At  
+📧 Email: **piyushsaxena7272@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/aman-barthria-8020a71a0/
