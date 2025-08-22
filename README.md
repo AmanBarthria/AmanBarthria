@@ -1,3 +1,44 @@
+# Hi 👋 I'm Aman Barthria  
+
+**Aspiring Data Analyst | Skilled in Excel · SQL · Statistics · Power BI · Python**  
+
+---
+
+## 📑 Excel Projects
+- Designed **business analysis reports** using PivotTables, advanced formulas, data cleaning, and dynamic dashboards.  
+- Automated KPIs and created slicer-based interactive reports.  
+👉 [View Excel Project](https://github.com/AmanBarthria/excel_analysis-project)
+
+---
+
+## 📊 SQL Projects
+- Worked on **NorthWind & Airline Databases**.  
+- Wrote advanced SQL queries using **JOINs, CTEs, Aggregations, and Window Functions** to answer real business questions.  
+👉 [View SQL Project](https://github.com/AmanBarthria/SQL_project)
+
+---
+
+## 📈 Statistics Projects
+- Applied **statistical concepts** like standard deviation, variance, probability, hypothesis testing.  
+- Used these techniques for **real-world datasets** to measure trends and variability.  
+
+---
+
+## 📊 Power BI Projects
+- Built **end-to-end interactive dashboards** with star schema modeling.  
+- Used **DAX measures, drillthrough analysis, and KPIs** for actionable insights.  
+👉 [View Power BI Project](https://github.com/AmanBarthria/powerbi_project)
+
+---
+
+## 🐍 Python Projects
+- Developed **data analytics workflows** using CSV integration, NumPy, and Pandas.  
+- Performed **data cleaning, transformation, table joins, statistical calculations**, and **pattern/character-based search**.  
+👉 [View Python Project](https://github.com/AmanBarthria/Python_project)
+
+---
+
+📬 **Reach me at:** piyushsaxena7272@gmail.com  
 👋 Hi, I am Aman Barthria
 Aspiring Data Analyst | Skilled in Excel, SQL, Statictics, Power BI & Python | Career Transition from Finance to Analytics
 
