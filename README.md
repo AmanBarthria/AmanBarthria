@@ -1,4 +1,4 @@
-# I am Aman Barthria  
+# I Am Aman Barthria  
 
 📊 **Aspiring Data Analyst** | Skilled in **Excel, SQL, Statistics, Power BI, and Python**  
 💼 Career Transition from **Finance to Data Analytics** | Passionate about turning raw data into actionable insights  
