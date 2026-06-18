@@ -68,12 +68,6 @@ Passionate about identifying patterns, trends, and opportunities through data.
 
 ---
 
-## 🛠 Skills & Tools
-
-Excel | SQL | Power BI | Python | Statistics | Pandas | NumPy | Matplotlib | GitHub 
-
----
-
 ## 🛠️ Tech Stack & Projects  
 
 ### 📈 Excel Business Analysis Project
@@ -149,8 +143,9 @@ Performed:
 
 ---
 
-## 🛠️ Skills & Tools  
-**Excel** | **SQL** | **Statistics** | **Power BI** | **Python** | NumPy | Pandas | Matplotlib | Seaborn | GitHub  
+## 🛠 Skills & Tools
+
+Excel | SQL | Power BI | Python | Statistics | Pandas | NumPy | Matplotlib | GitHub  
 
 ---
 
