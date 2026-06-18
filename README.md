@@ -64,10 +64,6 @@ Passionate about identifying patterns, trends, and opportunities through data.
 
 ---
 
-## 🚀 Featured Projects
-
----
-
 ## 🛠️ Tech Stack & Projects  
 
 ### 📈 Excel Business Analysis Project
