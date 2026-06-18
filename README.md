@@ -66,17 +66,25 @@ Passionate about identifying patterns, trends, and opportunities through data.
 
 ## 🚀 Featured Projects
 
-### 📊 Power BI Capstone Project
+---
 
-Built interactive business dashboards using:
+## 🛠 Skills & Tools
 
-- Data Modeling
-- DAX Measures
-- KPI Tracking
-- Sales Analysis
-- Customer Insights
+Excel | SQL | Power BI | Python | Statistics | Pandas | NumPy | Matplotlib | GitHub 
 
-👉 View Power BI Project
+---
+
+## 🛠️ Tech Stack & Projects  
+
+### 📈 Excel Business Analysis Project
+
+Created:
+
+- Interactive Dashboards
+- Pivot Reports
+- KPI Analysis
+- Data Cleaning Models  
+👉 [View Excel Project](https://github.com/AmanBarthria/excel_analysis-project)
 
 ---
 
@@ -88,66 +96,7 @@ Solved real-world business scenarios using:
 - CTEs
 - Window Functions
 - Aggregations
-- Subqueries
-
-👉 View SQL Project
-
----
-
-### 📈 Excel Business Analysis Project
-
-Created:
-
-- Interactive Dashboards
-- Pivot Reports
-- KPI Analysis
-- Data Cleaning Models
-
-👉 View Excel Project
-
----
-
-### 🐍 Python Data Analysis Project
-
-Performed:
-
-- Data Cleaning
-- Data Transformation
-- Data Aggregation
-- CSV Processing
-- Exploratory Data Analysis
-
-👉 View Python Project
-
----
-
-## 📚 Currently Learning
-
-- Advanced DAX
-- Power BI Optimization
-- SQL Query Performance Tuning
-- End-to-End Analytics Workflows
-
----
-
-## 🛠 Skills & Tools
-
-Excel | SQL | Power BI | Python | Statistics | Pandas | NumPy | Matplotlib | GitHub 
-
----
-
-## 🛠️ Tech Stack & Projects  
-
-### 📑 Excel  
-- Built **business analysis reports** using advanced formulas, PivotTables, and dashboards.  
-- Automated KPIs and slicer-based reports for decision-making.  
-👉 [View Excel Project](https://github.com/AmanBarthria/excel_analysis-project)
-
----
-
-### 📊 SQL  
-- Designed and solved **real-world queries** on NorthWind & Airline databases.  
-- Expertise in **JOINs, CTEs, Aggregations, and Window Functions**.  
+- Subqueries  
 👉 [View SQL Project](https://github.com/AmanBarthria/SQL_project)
 
 ---
@@ -158,24 +107,38 @@ Excel | SQL | Power BI | Python | Statistics | Pandas | NumPy | Matplotlib | Git
 
 ---
 
-### 📊 Power BI  
-- Created **end-to-end interactive dashboards** with star schema modeling.  
-- Delivered insights with **DAX measures, drillthrough, KPIs, and visual storytelling**.  
+### 📊 Power BI Capstone Project
+
+Built interactive business dashboards using:
+
+- Data Modeling
+- DAX Measures
+- KPI Tracking
+- Sales Analysis
+- Customer Insights
 👉 [View Power BI Project](https://github.com/AmanBarthria/powerbi_project)
 
 ---
+### 🐍 Python Data Analysis Project
 
-### 🐍 Python  
-- Built **end-to-end data workflows** using CSVs, NumPy, and Pandas.  
-- Performed **data cleaning, transformation, joins, advanced calculations**, and **pattern/character-based search**.  
+Performed:
+
+- Data Cleaning
+- Data Transformation
+- Data Aggregation
+- CSV Processing
+- Exploratory Data Analysis  
 👉 [View Python Project](https://github.com/AmanBarthria/Python_project)
 
 ---
 
-## 📚 Currently Learning  
-- Advanced **Power BI dashboards** with real-time data  
-- Query performance tuning in **SQL**  
-- Building **end-to-end analytics workflows**  
+
+## 📚 Currently Learning
+
+- Advanced DAX
+- Power BI Optimization
+- SQL Query Performance Tuning
+- End-to-End Analytics Workflows
 
 ---
 
