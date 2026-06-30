@@ -1,157 +1,244 @@
 # Hi, I'm Aman Barthria 👋
 
-📊 Data Analyst | Financial Data Analyst | MIS Reporting Professional
+# 📊 Data Analyst | Financial Data Analyst | SQL | Power BI | Python | Advanced Excel
 
-💼 11+ Years in Financial Services | Transitioning into Data Analytics
+💼 **11+ Years of Experience in Financial Services | Equity | Derivatives | Mutual Funds | MIS Reporting | Financial Operations**
 
-🔍 Passionate about transforming raw data into actionable business insights through data visualization, reporting, and analytics.
-
----
-
-## 👨‍💻 About Me
-
-I bring over 11 years of experience in Financial Services, working across Equity, Derivatives, Mutual Funds, MIS Reporting, and Client Operations.
-
-Through my Data Analytics journey, I have developed hands-on experience in:
-
-✔ SQL Data Querying & Analysis
-
-✔ Power BI Dashboard Development
-
-✔ Advanced Excel Reporting & Automation
-
-✔ Python Data Cleaning & Analysis
-
-✔ Statistical Analysis & Business Insights
-
-My goal is to combine domain expertise with analytics to solve real-world business problems and support data-driven decision making.
+🔍 Passionate about transforming raw business data into meaningful insights through reporting, dashboards, and analytics.
 
 ---
 
-## 🛠 My Core Technical Toolkit
+# 🚀 Featured Projects
 
-### Data Analysis
-SQL | Excel | Statistics | Python
-
-### Visualization & Reporting
-Power BI | Excel Dashboards | KPI Reporting
-
-### Data Processing
-Pandas | NumPy | Data Cleaning | Data Transformation
-
-### Domain Expertise
-Financial Services | Equity Markets | Mutual Funds | MIS Reporting
+| 📁 Project | 🔗 Open Project |
+|------------|----------------|
+| 📊 **Power BI Capstone Project** | **[View Project](https://github.com/AmanBarthria/powerbi_project)** |
+| 📑 **SQL Business Analysis Project** | **[View Project](https://github.com/AmanBarthria/SQL_project)** |
+| 🐍 **Python Data Analysis Project** | **[View Project](https://github.com/AmanBarthria/Python_project)** |
+| 📈 **Excel Dashboard Project** | **[View Project](https://github.com/AmanBarthria/excel_analysis-project)** |
 
 ---
 
-## 💡 What I Bring To The Table
+# 👨‍💻 About Me
 
-### Financial Domain Expertise
+I am a Data Analyst with **11+ years of experience** in the Financial Services industry, specializing in:
 
-11+ years of practical experience in Equity, Derivatives, Mutual Funds, Client Operations and Reporting.
+- Equity Operations
+- Derivatives
+- Mutual Funds
+- Portfolio Management
+- Financial Operations
+- MIS Reporting
+- Client Operations
+- Data Validation
 
-### Analytical Mindset
+Throughout my career at **Motilal Oswal Financial Services Ltd**, I have worked extensively on financial reporting, portfolio operations, data validation, stakeholder reporting, and business operations using Advanced Excel.
 
-Ability to convert complex datasets into meaningful insights.
+To strengthen my analytical capabilities, I successfully transitioned into **Data Analytics**, gaining hands-on experience in SQL, Power BI, Python, Statistics, and Advanced Excel through real-world business projects.
 
-### Business Understanding
-
-Strong understanding of reporting requirements, KPIs, and business performance metrics.
-
-### Problem Solving
-
-Passionate about identifying patterns, trends, and opportunities through data.
-
----
-
-## 🛠️ Tech Stack & Projects  
-
-### 📈 Excel Business Analysis Project
-
-Created:
-
-- Interactive Dashboards
-- Pivot Reports
-- KPI Analysis
-- Data Cleaning Models  
-👉 [View Excel Project](https://github.com/AmanBarthria/excel_analysis-project)
+I enjoy solving business problems using data and building dashboards that support data-driven decision-making.
 
 ---
 
-### 📑 SQL Data Analysis Project
+# 💼 Professional Experience
 
-Solved real-world business scenarios using:
+## Senior Operations Associate
+### Motilal Oswal Financial Services Ltd
+
+**January 2015 – Present**
+
+### Key Responsibilities
+
+✔ Managed 200+ client interactions daily
+
+✔ Managed 150+ Demat Accounts & Client Portfolios
+
+✔ Prepared Daily, Weekly & Monthly MIS Reports
+
+✔ Portfolio Management & Financial Reporting
+
+✔ Data Validation & Reconciliation
+
+✔ Stakeholder Reporting
+
+✔ Advanced Excel Automation
+
+✔ Financial Operations
+
+✔ Accounting, Tally ERP 9 & GST Documentation
+
+✔ Client Relationship Management
+
+---
+
+# 🛠 Technical Skills
+
+## Data Analytics
+
+- SQL
+- Power BI
+- Python
+- Advanced Excel
+- Statistics
+
+## SQL
 
 - Joins
-- CTEs
+- CTE
 - Window Functions
+- Subqueries
 - Aggregations
-- Subqueries  
-👉 [View SQL Project](https://github.com/AmanBarthria/SQL_project)
+
+## Power BI
+
+- DAX
+- Power Query
+- Data Modeling
+- KPI Dashboard
+- Data Visualization
+
+## Python
+
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+
+## Excel
+
+- Pivot Tables
+- XLOOKUP
+- VLOOKUP
+- INDEX-MATCH
+- SUMIF
+- COUNTIF
+- Power Query
+- Conditional Formatting
+- Dashboard Development
 
 ---
 
-### 📈 Statistics  
-- Applied **statistical concepts** like standard deviation, variance, probability & hypothesis testing.  
-- Used these for **real-world datasets** to detect trends, risk, and variability.  
+# 📂 Project Portfolio
 
----
+## 📊 ShopNest Store Power BI Capstone
 
-### 📊 Power BI Capstone Project
+### Business Problem
 
-Built interactive business dashboards using:
+Business stakeholders needed an interactive dashboard to monitor sales performance, revenue trends, customer behavior, and product performance.
 
+### Solution
+
+Designed an end-to-end Power BI solution using:
+
+- Power Query
 - Data Modeling
 - DAX Measures
-- KPI Tracking
-- Sales Analysis
-- Customer Insights
-👉 [View Power BI Project](https://github.com/AmanBarthria/powerbi_project)
+- KPI Dashboards
+
+### Skills
+
+Power BI • DAX • Power Query • Dashboard Development • Business Analysis
+
+➡️ **Project Link**
+
+https://github.com/AmanBarthria/powerbi_project
 
 ---
-### 🐍 Python Data Analysis Project
 
-Performed:
+## 📑 Airline & Northwind SQL Project
+
+### Business Problem
+
+Solved real-world business reporting questions using SQL.
+
+### Skills Used
+
+- JOINs
+- CTE
+- Window Functions
+- Aggregations
+- Subqueries
+
+➡️ **Project Link**
+
+https://github.com/AmanBarthria/SQL_project
+
+---
+
+## 🐍 Python Data Analysis Project
+
+### Project Highlights
 
 - Data Cleaning
 - Data Transformation
 - Data Aggregation
+- Pandas
+- NumPy
 - CSV Processing
-- Exploratory Data Analysis  
-👉 [View Python Project](https://github.com/AmanBarthria/Python_project)
+- Exploratory Data Analysis
+
+➡️ **Project Link**
+
+https://github.com/AmanBarthria/Python_project
 
 ---
 
+## 📈 Excel Business Analysis Project
 
-## 📚 Currently Learning
+### Project Highlights
+
+- Interactive Dashboard
+- Pivot Tables
+- KPI Reporting
+- Data Cleaning
+- Advanced Excel
+- Business Reporting
+
+➡️ **Project Link**
+
+https://github.com/AmanBarthria/excel_analysis-project
+
+---
+
+# 🎯 Core Competencies
+
+- Financial Data Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Reporting & MIS
+- Financial Reporting
+- Portfolio Management
+- Data Validation
+- Business Analysis
+- Stakeholder Management
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced DAX
-- Power BI Optimization
-- SQL Query Performance Tuning
-- End-to-End Analytics Workflows
+- Power BI Performance Optimization
+- SQL Query Optimization
+- End-to-End Data Analytics Workflow
 
 ---
 
-## 🎨 Creative Side  
-- ✍️ I enjoy writing simple blogs and data notes to explain concepts in an easy way.  
-- 🌱 Believe in **continuous learning, low ego, and high ownership**.  
-- ⚡ Fun fact: I started in **Finance** but discovered my true passion in **Data Analytics**.  
+# 📬 Let's Connect
 
----
+📧 **Email**
 
-## 🛠 Skills & Tools
+amanbarthria@gmail.com
 
-Excel | SQL | Power BI | Python | Statistics | Pandas | NumPy | Matplotlib | GitHub  
+🔗 **LinkedIn**
 
----
-
-## 📬 Reach Me At  
-I’m always interested in discussing Data Analytics, Financial Analytics, Business Intelligence, and new opportunities.
-
-📧 Email: amanbarthria@gmail.com
-
-🔗 LinkedIn:
 https://www.linkedin.com/in/aman-barthria-8020a71a0
 
-🔗 GitHub:
+🔗 **GitHub**
+
 https://github.com/AmanBarthria
+
+---
+
+⭐ If you like my projects, don't forget to ⭐ Star the repositories.
