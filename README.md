@@ -117,7 +117,7 @@ My goal is to combine financial domain knowledge with analytical tools to prepar
 ### Senior Operations Associate
 
 **Motilal Oswal Financial Services Ltd**  
-📍 Ghaziabad, Uttar Pradesh, India  
+📍 Kanpur, Uttar Pradesh, India  
 🗓️ January 2015 – Present
 
 **Key Responsibilities**
