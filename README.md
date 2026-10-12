@@ -1,12 +1,14 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Aman Barthria
 
-### 📊 Data Analyst | Financial Data Analyst | SQL | Power BI | Python | Advanced Excel
+### 📊 Aspiring Data Analyst | Financial Data Analysis | SQL | Power BI | Advanced Excel | Python
 
-💼 **11+ Years of Financial Services Experience | Equity | Derivatives | Mutual Funds | MIS Reporting | Financial Operations**
+**11+ Years of Financial Services Experience | Equity | Derivatives | Mutual Funds | MIS Reporting | Financial Operations**
 
-🔍 Passionate about transforming raw business data into meaningful insights through reporting, dashboards, and analytics.
+Transforming financial and business data into meaningful insights through data analysis, reporting, and dashboards.
+
+📍 Kanpur, Uttar Pradesh, India
 
 ---
 
@@ -15,44 +17,76 @@
 <a href="https://www.linkedin.com/in/aman-barthria-8020a71a0">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:amanbarthria@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/AmanBarthria">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
+
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-<p align="center">
+### 📊 1. ShopNest Store — Power BI Capstone
 
-<img src="https://skillicons.dev/icons?i=python"/>
+**Project Type:** SkilloVilla Data Analytics Capstone
 
-<img src="https://skillicons.dev/icons?i=git"/>
+**Business Objective:** Build an interactive dashboard to analyze sales, customers, products, revenue trends, and business performance.
 
-<img src="https://skillicons.dev/icons?i=github"/>
+**Approach:**
+- Power Query for data preparation
+- Data modeling and DAX measures
+- KPI dashboards and interactive visualizations
+- Analysis structured around eight business questions
 
-</p>
+**Project Documentation:** [Open explanation document](https://github.com/AmanBarthria/powerbi_project/blob/main/explanation%20doc.pdf)
 
-<p align="center">
+🔗 [View Power BI Project](https://github.com/AmanBarthria/powerbi_project)
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+### 📑 2. SQL Business Analysis Project
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+**Project Type:** SQL Data Analysis Project
 
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+**Business Objective:** Explore business reporting questions using SQL and relational datasets.
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+**Analysis Areas:**
+- Northwind database analysis
+- Airline dataset analysis
+- Data retrieval, filtering, and aggregation
+- JOINs, CTEs, subqueries, and window functions
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+🔗 [View SQL Project](https://github.com/AmanBarthria/SQL_project)
 
-<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/>
+### 🐍 3. Python Data Analysis Project
 
-</p>
+**Project Type:** Python Data Analytics Project
+
+**Objective:** Practice data cleaning, transformation, and analysis using Python.
+
+**Techniques:**
+- Pandas and NumPy
+- CSV data processing
+- Data cleaning and transformation
+- Data aggregation and exploratory data analysis
+
+🔗 [View Python Project](https://github.com/AmanBarthria/Python_project)
+
+### 📈 4. Excel Data Analysis Project
+
+**Project Type:** Excel Assignments and Dashboard Exercises
+
+**Objective:** Apply Excel techniques to organize, analyze, and present data.
+
+**Techniques:**
+- PivotTables and PivotCharts
+- Advanced Excel formulas
+- Conditional formatting
+- KPI reporting and dashboard development
+
+🔗 [View Excel Project and Workbooks](https://github.com/AmanBarthria/excel_analysis-project)
 
 ---
 
@@ -64,241 +98,226 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBarthria&layout=compact&hide_border=true)
 
-</div>
+---
+
+## 👨‍💻 About Me
+
+I am an aspiring Data Analyst with **11+ years of experience in Financial Services**, specializing in Equity, Derivatives, Mutual Funds, MIS Reporting, Financial Operations, portfolio operations, and financial reporting.
+
+At **Motilal Oswal Financial Services Ltd**, I have worked with financial and operational reporting, transaction processing, data validation, reconciliation, client operations, and Advanced Excel-based MIS reports.
+
+I have strengthened my analytical skills through SkilloVilla Data Analytics training and projects involving SQL, Power BI, Advanced Excel, Statistics, and Python.
+
+My goal is to combine financial domain knowledge with analytical tools to prepare reliable reports, explore business questions, and communicate data-driven insights.
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Professional Experience
 
-| Project | Open |
-|---------|------|
-| 📊 **Power BI Capstone Project** | **[View Project](https://github.com/AmanBarthria/powerbi_project)** |
-| 📑 **SQL Business Analysis Project** | **[View Project](https://github.com/AmanBarthria/SQL_project)** |
-| 🐍 **Python Data Analysis Project** | **[View Project](https://github.com/AmanBarthria/Python_project)** |
-| 📈 **Excel Dashboard Project** | **[View Project](https://github.com/AmanBarthria/excel_analysis-project)** |
+### Senior Operations Associate
 
----
-
-# 👨‍💻 About Me
-
-I am a detail-oriented **Data Analyst** with **11+ years of experience** in the Financial Services industry, specializing in **Equity, Derivatives, Mutual Funds, MIS Reporting, Financial Operations, Accounting, and GST**.
-
-At **Motilal Oswal Financial Services Ltd**, I have worked extensively in portfolio operations, financial reporting, transaction processing, stakeholder reporting, client operations, and Advanced Excel-based MIS reporting.
-
-To strengthen my analytical capabilities, I successfully transitioned into **Data Analytics** through professional training at **SkilloVilla**, where I gained hands-on expertise in SQL, Power BI, Python, Statistics, and Advanced Excel by solving real-world business projects.
-
-I enjoy transforming raw business data into meaningful insights through data cleaning, reporting, dashboard development, visualization, and business analysis to support data-driven decision-making.
-
----
----
-
-# 💼 Professional Experience
-
-## Senior Operations Associate
 **Motilal Oswal Financial Services Ltd**  
 📍 Ghaziabad, Uttar Pradesh, India  
 🗓️ January 2015 – Present
 
-### Key Responsibilities
-
-- Managed 200+ client interactions daily across Equity, Derivatives, Mutual Funds, and Financial Operations.
+**Key Responsibilities**
+- Managed 200+ client interactions daily across financial services operations.
 - Maintained and monitored 150+ Demat accounts and client portfolios.
-- Prepared Daily, Weekly, and Monthly MIS reports for management and stakeholders.
+- Prepared daily, weekly, and monthly MIS reports for management and stakeholders.
 - Performed financial reporting, data validation, reconciliation, and quality checks.
-- Generated portfolio reports and operational reports for Relationship Managers.
-- Used Advanced Excel to automate reporting and improve operational efficiency.
-- Worked with Tally ERP 9, Accounting, and GST documentation.
-- Coordinated with multiple internal teams to resolve operational issues.
-- Supported business decisions through reporting, portfolio analysis, and operational insights.
+- Generated portfolio and operational reports for Relationship Managers.
+- Used Advanced Excel to prepare MIS reports and support operational analysis.
+- Worked with Tally ERP 9, accounting, and GST documentation.
+- Coordinated with internal teams to resolve client and operational issues.
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Technical Skills
 
-## 📊 Data Analytics
-
+### 📊 Data Analytics
 - SQL
-- Power BI
+- Microsoft Power BI
+- Advanced Microsoft Excel
 - Python
-- Advanced Excel
 - Statistics
+- Data Analysis
+- Data Visualization
+- Business Intelligence
 
----
-
-## 💻 SQL
-
-- Joins
-- CTEs
+### 💻 SQL
+- JOINs
+- Common Table Expressions (CTEs)
 - Window Functions
-- Aggregations
+- Aggregations and GROUP BY
 - Subqueries
 - Views
 - Data Filtering
 - Business Reporting
+- PostgreSQL
 
----
-
-## 📈 Power BI
-
+### 📈 Power BI
 - Power Query
 - Data Modeling
-- DAX
+- DAX Measures
 - KPI Dashboards
 - Interactive Reports
-- Business Insights
 - Data Visualization
+- Business Reporting
 
----
-
-## 🐍 Python
-
+### 🐍 Python
 - Pandas
 - NumPy
 - Data Cleaning
 - Data Transformation
 - Data Aggregation
+- CSV Processing
 - Exploratory Data Analysis (EDA)
 
----
-
-## 📑 Advanced Excel
-
-- Pivot Tables
-- Pivot Charts
-- XLOOKUP
-- VLOOKUP
+### 📑 Advanced Excel
+- PivotTables and PivotCharts
+- XLOOKUP and VLOOKUP
 - INDEX-MATCH
-- SUMIF
-- COUNTIF
+- SUMIF and COUNTIF
 - Conditional Formatting
 - Power Query
+- MIS Reporting
 - Dashboard Development
 
 ---
 
-# 📂 Project Portfolio
+## 📂 Project Portfolio
 
-## 📊 ShopNest Store Power BI Capstone
+### 📊 ShopNest Store Power BI Capstone
 
-### Business Problem
+**Business Problem**
 
 Business stakeholders required an interactive dashboard to monitor sales performance, customer behavior, revenue trends, and product performance.
 
-### Solution
+**Solution**
+- Prepared and modeled data using Power Query and Power BI.
+- Used DAX measures for reporting and KPIs.
+- Created dashboard visualizations to address eight business questions.
 
-Designed a complete Power BI solution using:
+**Project Evidence**
+- Dashboard screenshots and project documentation are available in the repository.
+- Specific numerical findings should be added after verifying the dashboard results.
 
-- Data Modeling
-- Power Query
-- DAX Measures
-- KPI Dashboards
-- Business Reporting
+**Skills Used:** Power BI, DAX, Power Query, Data Modeling, Dashboard Development, Business Analysis
 
-### Skills Used
-
-Power BI • DAX • Power Query • Data Modeling • Dashboard Development • Business Analysis
-
-### 🔗 Project
-
-👉 https://github.com/AmanBarthria/powerbi_project
+🔗 [Open Power BI Project](https://github.com/AmanBarthria/powerbi_project)
 
 ---
 
-## 📑 SQL Business Analysis Project
+### 📑 SQL Business Analysis Project
 
-### Business Problem
+**Business Objective**
 
-Solved multiple real-world business reporting scenarios using SQL.
+Practice SQL-based analysis on Northwind and Airline datasets to answer business reporting questions.
 
-### Skills Used
+**Analysis Techniques**
+- JOINs and aggregations
+- CTEs and subqueries
+- Window functions
+- Filtering and data retrieval
 
-- JOINs
-- CTEs
-- Window Functions
-- Aggregations
-- Subqueries
+**Project Evidence**
 
-### 🔗 Project
+SQL scripts and sample query results should be linked here after confirming the repository files and outputs.
 
-👉 https://github.com/AmanBarthria/SQL_project
+**Skills Used:** SQL, PostgreSQL, Data Analysis, Business Reporting
 
----
-
-## 🐍 Python Data Analysis Project
-
-### Project Highlights
-
-- Data Cleaning
-- Data Transformation
-- CSV Processing
-- Pandas
-- NumPy
-- Data Aggregation
-- Exploratory Data Analysis
-
-### 🔗 Project
-
-👉 https://github.com/AmanBarthria/Python_project
+🔗 [Open SQL Project](https://github.com/AmanBarthria/SQL_project)
 
 ---
 
-## 📈 Excel Dashboard Project
+### 🐍 Python Data Analysis Project
 
-### Project Highlights
+**Objective**
 
-- Interactive Dashboard
-- Pivot Tables
-- KPI Reporting
-- Business Reporting
-- Conditional Formatting
-- Advanced Excel Functions
+Practice preparing datasets for analysis through data cleaning, transformation, and aggregation.
 
-### 🔗 Project
+**Project Highlights**
+- Pandas and NumPy
+- CSV processing
+- Data cleaning and transformation
+- Aggregation and exploratory analysis
 
-👉 https://github.com/AmanBarthria/excel_analysis-project
+**Project Documentation**
+
+The repository notebook should document the input data, cleaning rules, output, and steps to run the analysis.
+
+**Skills Used:** Python, Pandas, NumPy, Data Cleaning, Data Analysis
+
+🔗 [Open Python Project](https://github.com/AmanBarthria/Python_project)
 
 ---
 
-# 🎯 Core Competencies
+### 📈 Excel Data Analysis and Dashboard Project
+
+**Objective**
+
+Practice Excel-based data analysis, reporting, and dashboard techniques through course assignments.
+
+**Project Highlights**
+- PivotTables and PivotCharts
+- Advanced Excel formulas
+- Conditional formatting
+- KPI reporting and dashboard exercises
+
+**Project Documentation**
+
+Workbook links, sheet descriptions, formula locations, and verified findings should be documented in the repository README.
+
+**Skills Used:** Microsoft Excel, Data Analysis, PivotTables, Data Visualization, MIS Reporting
+
+🔗 [Open Excel Project](https://github.com/AmanBarthria/excel_analysis-project)
+
+---
+
+## 🎯 Core Competencies
 
 - Data Analysis
 - Financial Data Analysis
 - Business Intelligence
 - Dashboard Development
 - Data Visualization
-- Reporting & MIS
+- MIS and Business Reporting
 - Financial Reporting
-- Portfolio Management
-- Data Validation
+- Portfolio Data Management
+- Data Validation and Quality Checks
 - Business Analysis
-- Stakeholder Management
-- Client Operations
+- Stakeholder Reporting
+- Financial Operations
 
 ---
 
-# 🌱 Currently Learning
+## 🎓 Certifications
 
-- Advanced DAX Optimization
+**Certified Data Analyst (CDA) — SkilloVilla**
+
+Data analytics training covering SQL, Power BI, Excel, Python, and Statistics.
+
+Additional learning includes Excel and Data Analysis courses through Coursera and a Power BI workshop.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced DAX and Power BI reporting
 - SQL Query Optimization
-- End-to-End Analytics Workflow
-- Power BI Performance Tuning
+- End-to-End Data Analytics Workflows
+- Data Cleaning and Business Analysis
 
 ---
 
-# 📬 Connect With Me
+## 📬 Contact
 
-📧 **Email**
+📧 **Email:** [amanbarthria@gmail.com](mailto:amanbarthria@gmail.com)
 
-amanbarthria@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/aman-barthria-8020a71a0](https://www.linkedin.com/in/aman-barthria-8020a71a0)
 
-🔗 **LinkedIn**
-
-https://www.linkedin.com/in/aman-barthria-8020a71a0
-
-🔗 **GitHub**
-
-https://github.com/AmanBarthria
+🔗 **GitHub:** [github.com/AmanBarthria](https://github.com/AmanBarthria)
 
 ---
 
-⭐ Thank you for visiting my profile! If you find my projects helpful, feel free to explore the repositories and connect with me on LinkedIn.
+⭐ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
